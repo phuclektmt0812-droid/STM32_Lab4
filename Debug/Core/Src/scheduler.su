@@ -1,0 +1,8 @@
+../Core/Src/scheduler.c:19:13:Insert_Task	40	static
+../Core/Src/scheduler.c:37:13:Remove_Task	24	static
+../Core/Src/scheduler.c:47:6:SCH_Init	16	static,ignoring_inline_asm
+../Core/Src/scheduler.c:58:6:SCH_Update	4	static
+../Core/Src/scheduler.c:65:6:SCH_Dispatch_Tasks	40	static,ignoring_inline_asm
+../Core/Src/scheduler.c:88:10:SCH_Add_Task	56	static,ignoring_inline_asm
+../Core/Src/scheduler.c:116:9:SCH_Delete_Task	32	static,ignoring_inline_asm
+../Core/Src/scheduler.c:134:10:get_time	24	static,ignoring_inline_asm
